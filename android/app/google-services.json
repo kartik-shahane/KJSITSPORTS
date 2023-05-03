@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "260240811366",
+    "project_id": "kjsieitsport",
+    "storage_bucket": "kjsieitsport.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260240811366:android:12faa34047c2eab4d754a7",
+        "android_client_info": {
+          "package_name": "com.kjsieit.sports"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260240811366-dg83j6vhekc2a8t499epj5ibcgmej8m5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBti-oF-AlZ3FeLigH6QUWZEfmaY4MKcwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260240811366-dg83j6vhekc2a8t499epj5ibcgmej8m5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260240811366:android:efa271602eb333d5d754a7",
+        "android_client_info": {
+          "package_name": "com.sample.fire_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260240811366-dg83j6vhekc2a8t499epj5ibcgmej8m5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBti-oF-AlZ3FeLigH6QUWZEfmaY4MKcwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260240811366-dg83j6vhekc2a8t499epj5ibcgmej8m5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
